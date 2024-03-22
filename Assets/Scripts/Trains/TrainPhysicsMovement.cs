@@ -12,7 +12,7 @@ public class TrainPhysicsMovement : TrainMovement
     {
         if (_isSpeedingUp)
         {
-            _rigidbody.AddForceAtPosition(_forcePoint.forward * _hp, _forcePoint.position, ForceMode2D.Force);
+            _rigidbody.AddForceAtPosition(_forcePoint.right * _hp, _forcePoint.position, ForceMode2D.Force);
         }
     }
 

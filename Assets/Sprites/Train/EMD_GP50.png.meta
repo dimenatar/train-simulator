@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 9b1bdcc737f06d34abd45272c96248ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EMD_GP50_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1584
+        width: 1480
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d2ef08c0630a4d8699139dd8f7e52
+      internalID: 492506353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 863
+        width: 1666
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ae8699811e01449e44322b91aa721
+      internalID: 1430204998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 429
+        width: 406
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7530e53c6db5a1c4ba5ad61882fff94d
+      internalID: -1577546334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_33
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 428
+        width: 405
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01364748f877eea48becb7e8f04f3428
+      internalID: 402622816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_50
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 334
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4f933bc155d3f4a8ce66cbea09c9d7
+      internalID: -867649120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_55
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 334
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680f545c5712ed946adb1458bd321bf7
+      internalID: -1481195554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_56
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 351
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8409b6bf6c28446a91714ccf618ede
+      internalID: -1220352874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_58
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 334
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042e3b68c12d714295135926a939d44
+      internalID: 846010464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_59
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 351
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6004167556a14992738418ce359ac
+      internalID: 1862503046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_60
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 334
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c0490f2a1c4444958c2ec6ad17ead
+      internalID: 1353008123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_66
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 269
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fecf620d77d23b45998ca254dc323f3
+      internalID: 1748841221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_70
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 269
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e953dfd61efaa34299b2d0c050c747b
+      internalID: 690190617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EMD_GP50_78
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 137
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c6796516d0dea428965cbca5a61d66
+      internalID: 7475097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EMD_GP50_0: 492506353
+      EMD_GP50_1: 1430204998
+      EMD_GP50_10: -640306879
+      EMD_GP50_11: -806130753
+      EMD_GP50_12: 1940333441
+      EMD_GP50_13: -507554587
+      EMD_GP50_14: 1831450968
+      EMD_GP50_15: 1325828756
+      EMD_GP50_16: 752422658
+      EMD_GP50_17: 1555493525
+      EMD_GP50_18: -1690917406
+      EMD_GP50_19: 300770715
+      EMD_GP50_2: 1236866120
+      EMD_GP50_20: 503041207
+      EMD_GP50_21: -2075207550
+      EMD_GP50_22: 1787338963
+      EMD_GP50_23: -162970876
+      EMD_GP50_24: 426240320
+      EMD_GP50_25: -942594126
+      EMD_GP50_26: -231355725
+      EMD_GP50_27: 722889422
+      EMD_GP50_28: 1374456448
+      EMD_GP50_29: 1524509407
+      EMD_GP50_3: 917008830
+      EMD_GP50_30: -1577546334
+      EMD_GP50_31: 1455287194
+      EMD_GP50_32: -825074289
+      EMD_GP50_33: 402622816
+      EMD_GP50_34: -1860389278
+      EMD_GP50_35: -1376891684
+      EMD_GP50_36: 459216462
+      EMD_GP50_37: 1746556005
+      EMD_GP50_38: 919624793
+      EMD_GP50_39: 4984685
+      EMD_GP50_4: 1203479317
+      EMD_GP50_40: 188078723
+      EMD_GP50_41: 817592077
+      EMD_GP50_42: -522901093
+      EMD_GP50_43: 1068866240
+      EMD_GP50_44: 1375354803
+      EMD_GP50_45: 644914921
+      EMD_GP50_46: 1592571552
+      EMD_GP50_47: 1869808644
+      EMD_GP50_48: 1870845030
+      EMD_GP50_49: -1891654494
+      EMD_GP50_5: 359475790
+      EMD_GP50_50: -867649120
+      EMD_GP50_51: -1291514435
+      EMD_GP50_52: -1382029806
+      EMD_GP50_53: 1847335263
+      EMD_GP50_54: -54648121
+      EMD_GP50_55: -1481195554
+      EMD_GP50_56: -1220352874
+      EMD_GP50_57: 1742399157
+      EMD_GP50_58: 846010464
+      EMD_GP50_59: 1862503046
+      EMD_GP50_6: -779088939
+      EMD_GP50_60: 1353008123
+      EMD_GP50_61: -1084925050
+      EMD_GP50_62: 589446934
+      EMD_GP50_63: 227532786
+      EMD_GP50_64: -745096803
+      EMD_GP50_65: 532006136
+      EMD_GP50_66: 1748841221
+      EMD_GP50_67: 552646527
+      EMD_GP50_68: -1291840718
+      EMD_GP50_69: -476220236
+      EMD_GP50_7: -1722584824
+      EMD_GP50_70: 690190617
+      EMD_GP50_71: -969585529
+      EMD_GP50_72: 1955896482
+      EMD_GP50_73: 1932173435
+      EMD_GP50_74: -863800020
+      EMD_GP50_75: -810884890
+      EMD_GP50_76: -217844758
+      EMD_GP50_77: -181585224
+      EMD_GP50_78: 7475097
+      EMD_GP50_79: 180516262
+      EMD_GP50_8: -797203555
+      EMD_GP50_80: -1652412803
+      EMD_GP50_81: -1141311531
+      EMD_GP50_82: -888083176
+      EMD_GP50_83: 1935422623
+      EMD_GP50_84: 2089804229
+      EMD_GP50_9: 643638510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

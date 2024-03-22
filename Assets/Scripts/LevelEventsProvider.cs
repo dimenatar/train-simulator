@@ -1,6 +1,6 @@
 using System;
 
-public class LeveEventsProvider
+public class LevelEventsProvider
 {
     private LevelEvents _levelEvents;
 

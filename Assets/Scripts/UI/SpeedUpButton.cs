@@ -7,13 +7,11 @@ public class SpeedUpButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandl
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        print("d");
         _train.SpeedUp();
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        print("u");
         _train.StopSpeedingUp();
     }
 }

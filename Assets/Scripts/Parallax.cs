@@ -24,14 +24,15 @@ public class Parallax : MonoBehaviour
     private void Awake()
     {
         _camera = Camera.main;
-    }
-
-    private void Start()
-    {
         _items.ForEach(item =>
         {
             item._startPositionX = item.Transform.position.x;
         });
+    }
+
+    private void Start()
+    {
+
     }
 
     private void FixedUpdate()

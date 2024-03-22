@@ -5,6 +5,8 @@ public class TrainPhysicsMovement : TrainMovement
     [SerializeField] private Rigidbody2D _rigidbody;
     [SerializeField] private Transform _forcePoint;
     [SerializeField] private float _hp;
+    [SerializeField] private float _maxSpeed;
+    [SerializeField] private AnimationCurve _powerCurve;
 
     private bool _isSpeedingUp;
 
@@ -12,7 +14,7 @@ public class TrainPhysicsMovement : TrainMovement
     {
         if (_isSpeedingUp)
         {
-            _rigidbody.AddForceAtPosition(_forcePoint.right * _hp, _forcePoint.position, ForceMode2D.Force);
+            CalculateForce();
         }
     }
 
@@ -29,5 +31,13 @@ public class TrainPhysicsMovement : TrainMovement
     public override void StopSpeedingUp()
     {
         _isSpeedingUp = false;
+    }
+
+    private void CalculateForce()
+    {
+        var speed = GetSpeed();
+        var procentage = speed / _maxSpeed;
+        var animatedPower = _powerCurve.Evaluate(procentage) * _hp;
+        _rigidbody.AddForceAtPosition(_forcePoint.right * animatedPower, _forcePoint.position, ForceMode2D.Force);
     }
 }
